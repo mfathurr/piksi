@@ -1,3 +1,6 @@
+# Disclaimer!
+## Aplikasi ini di fork dari repository @josephine (cek bagian Credits) dan dimodifikasi untuk keperluan tugas CPNS
+
 ![O-Present](https://github.com/josephines1/o-present/blob/main/public/assets/img/readme/mockup_opresent.png "O-Present")
 
 # O-Present
